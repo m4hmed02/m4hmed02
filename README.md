@@ -14,8 +14,6 @@ Building scalable web and mobile applications with clean architecture, modern te
 
 </div>
 
----
-
 # About Me
 
 - Native Android Developer (Kotlin & Java)
@@ -24,8 +22,6 @@ Building scalable web and mobile applications with clean architecture, modern te
 - Passionate about designing scalable software solutions
 - Focused on writing clean, maintainable, and efficient code
 - Continuously learning modern technologies and development practices
-
----
 
 # Connect With Me
 
@@ -45,7 +41,6 @@ Building scalable web and mobile applications with clean architecture, modern te
 
 </div>
 
----
 
 # Tech Stack
 
@@ -55,27 +50,6 @@ Building scalable web and mobile applications with clean architecture, modern te
 
 </div>
 
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=m4hmed02&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4hmed02&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=m4hmed02&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
 
 # Contribution Graph
 
@@ -85,7 +59,6 @@ Building scalable web and mobile applications with clean architecture, modern te
 
 </div>
 
----
 
 # GitHub Summary
 
@@ -105,7 +78,6 @@ Building scalable web and mobile applications with clean architecture, modern te
 
 </div>
 
----
 
 # Skills
 
@@ -120,8 +92,6 @@ Building scalable web and mobile applications with clean architecture, modern te
 
 </div>
 
----
-
 # Philosophy
 
 <div align="center">
@@ -130,7 +100,6 @@ Building scalable web and mobile applications with clean architecture, modern te
 
 </div>
 
----
 
 <div align="center">
 

@@ -2,100 +2,101 @@
 
 # Muhammad Ahmed
 
-### MERN Stack Developer | Native Android Developer (kotlin & java) | Flutter Developer
+### MERN Stack Developer • Native Android Developer • Flutter Developer
 
-<p>
-Building scalable web and mobile applications with modern technologies.
-Currently focused on Full Stack Development, Android Development, Flutter, and Artificial Intelligence.
+Building modern Web & Mobile Applications with scalable architecture.
+
+<p align="center">
+  <a href="https://github.com/m4hmed02">
+    <img src="https://komarev.com/ghpvc/?username=m4hmed02&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I am passionate about designing and developing modern software solutions.
+I am passionate about building high-quality web and mobile applications using modern technologies.
 
-My primary interests include:
+My interests include:
 
+- MERN Stack Development
 - Native Android Development (Kotlin & Java)
-- MERN Stack Web Development
-- Flutter Cross-Platform Development
+- Flutter Cross Platform Development
 - REST APIs
 - Database Design
-- Artificial Intelligence & Machine Learning
-- Clean Architecture and Scalable Applications
+- Artificial Intelligence
+- Software Architecture
 
 ---
 
-## Technologies
+## Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,java,kotlin,flutter,dart,python,git,github,vscode,figma,postman,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,firebase,java,kotlin,flutter,dart,python,git,github,vscode,postman,figma&perline=7"/>
 
 </p>
 
 ---
 
-## GitHub Statistics
+## GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=m4hmed02&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=m4hmed02&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4hmed02&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4hmed02&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=m4hmed02&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
-<p align="center">
+## Development
 
-<img src="https://streak-stats.demolab.com?user=m4hmed02&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-## Development Stack
-
-| Category | Technologies |
-|----------|--------------|
-| Web | HTML, CSS, JavaScript, React.js, Next.js |
-| Backend | Node.js, Express.js |
-| Database | MongoDB, MySQL|
-| Mobile | Kotlin, Java, Flutter |
-| Programming | JavaScript, Java, Kotlin, Dart, Python |
-| Tools | Git, GitHub, VS Code, Postman, Figma |
+| Area | Technologies |
+|------|--------------|
+| Frontend | HTML • CSS • JavaScript • React • Next.js |
+| Backend | Node.js • Express.js |
+| Database | MongoDB • MySQL |
+| Mobile | Kotlin • Java • Flutter |
+| Languages | JavaScript • Java • Kotlin • Dart • Python |
+| Tools | Git • GitHub • VS Code • Postman • Figma |
 
 ---
 
 ## Current Focus
 
-- Building Full Stack MERN Applications
-- Native Android Development using Kotlin
-- Flutter Mobile Applications
-- Artificial Intelligence Projects
+- Full Stack MERN Applications
+- Native Android Applications
+- Flutter Mobile Development
+- Artificial Intelligence
 - Backend API Development
 
 ---
 
 ## Featured Projects
 
-Coming Soon...
-
-- AI Based Dengue Prediction System
-- MERN Rental Car Management System
-- Portfolio Website
-- Android Applications
-- Flutter Applications
+| Project | Description |
+|---------|-------------|
+| Dengue Guard AI | AI-based Disease Prediction System |
+| Rental Car Management | Full Stack MERN Application |
+| Portfolio Website | Personal Portfolio |
+| Android Applications | Native Kotlin & Java |
+| Flutter Applications | Cross Platform Apps |
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=m4hmed02&style=flat-square"/>
+*"First, solve the problem. Then, write the code."*
 
 </div>

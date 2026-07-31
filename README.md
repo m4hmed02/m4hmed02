@@ -47,12 +47,6 @@
 </div>
 
 
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-
 ## Contribution Graph
 
 <div align="center">
@@ -69,6 +63,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--mahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-mahmed/)
 [![Gmail](https://img.shields.io/badge/Gmail-2704muhammadahmed-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2704muhammadahmed@gmail.com)
 
+</div>
+
+
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 

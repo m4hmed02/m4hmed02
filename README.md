@@ -1,108 +1,126 @@
 <div align="center">
 
-# Muhammad Ahmed
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muhammad%20Ahmed&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Android%20%7C%20Flutter%20%7C%20Full%20Stack&descAlignY=55&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&duration=3000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;Native+Android+Developer+(Kotlin+%26+Java);Flutter+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2563EB&height=180&section=header"/>
-
-<p>
-Building scalable web and mobile applications with clean architecture, modern technologies, and intuitive user experiences.
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=m4hmed02&label=Profile%20Views&style=for-the-badge&color=2563EB"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=🤖+Native+Android+Developer;📱+Kotlin+%26+Jetpack+Compose+Enthusiast;🌐+Full+Stack+MERN+Developer;🦋+Flutter+Cross-Platform+Apps;🏗️+Clean+Architecture+Advocate;⚡+Always+Shipping+Something+New" />
 
 </div>
 
-# About Me
+---
 
-- Native Android Developer (Kotlin & Java)
-- Flutter Developer
-- Full Stack MERN Developer
-- Passionate about designing scalable software solutions
-- Focused on writing clean, maintainable, and efficient code
-- Continuously learning modern technologies and development practices
+<img align="right" width="360" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-# Connect With Me
+### 👋 Hey there, I'm Ahmed
+
+- 🤖 **Primary Focus:** Native Android (Kotlin + Jetpack Compose)
+- 📐 Following **Clean Architecture**, MVVM & MVI patterns
+- 🔧 Building with **Hilt**, **Coroutines**, **Flow**, **Room**, **Retrofit**
+- 🌐 Also ship Full Stack apps with **MERN**
+- 🦋 Cross-platform with **Flutter + Dart**
+- 🧠 Currently diving deeper into **Kotlin Multiplatform**
+- 🎯 Obsessed with writing **clean, testable, scalable** code
+
+<br clear="right"/>
+
+---
+
+## 🤖 Android Arsenal
 
 <div align="center">
 
-<a href="https://github.com/m4hmed02">
-<img src="https://skillicons.dev/icons?i=github" height="52"/>
-</a>
-
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/dev-mahmed/)">
-<img src="https://skillicons.dev/icons?i=linkedin" height="52"/>
-</a>
-
-<a href="mailto:2704muhammadahmed@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="52"/>
-</a>
+| Layer | Tech |
+|---|---|
+| **Language** | Kotlin, Java |
+| **UI** | Jetpack Compose, XML Layouts |
+| **Architecture** | MVVM, MVI, Clean Architecture |
+| **Async** | Coroutines, Flow, LiveData |
+| **DI** | Hilt / Dagger |
+| **Networking** | Retrofit, OkHttp, Ktor |
+| **Local DB** | Room, DataStore |
+| **Navigation** | Jetpack Navigation Component |
+| **Testing** | JUnit, Espresso, MockK |
+| **Firebase** | Auth, Firestore, Cloud Messaging |
 
 </div>
 
+---
 
-# Tech Stack
+## 🛠️ Full Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,flutter,dart,kotlin,java,python,cpp,tailwind,bootstrap,git,github,firebase,vscode,androidstudio,postman,npm,vite,figma&perline=7"/>
+**📱 Mobile**
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,flutter,dart,firebase" height="48"/>
+
+**🌐 Web & Backend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript" height="48"/>
+
+**🗄️ Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" height="48"/>
+
+**🎨 UI & Styling**
+
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,html,css" height="48"/>
+
+**🔧 Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,python,cpp" height="48"/>
 
 </div>
 
+---
 
-# Contribution Graph
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m4hmed02&theme=github-dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=m4hmed02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9&count_private=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=m4hmed02&theme=tokyonight&hide_border=true&background=0D1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4hmed02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
+---
 
-# GitHub Summary
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=m4hmed02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=m4hmed02&theme=tokyo-night&hide_border=true&area=true&area_color=4FC3F7"/>
+</div>
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m4hmed02&theme=github_dark"/>
+[![GitHub](https://img.shields.io/badge/GitHub-m4hmed02-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m4hmed02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--mahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-mahmed/)
+[![Gmail](https://img.shields.io/badge/Gmail-2704muhammadahmed-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2704muhammadahmed@gmail.com)
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m4hmed02&theme=github_dark"/>
+<img src="https://komarev.com/ghpvc/?username=m4hmed02&label=Profile+Views&style=for-the-badge&color=4FC3F7&labelColor=0D1117"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m4hmed02&theme=github_dark"/>
+*"Clean code is not written by following rules. It is written by a programmer who cares."*
+— Robert C. Martin
 
-</div>
-
-
-# Skills
-
-<div align="center">
-
-| Frontend | Backend | Mobile | Database | Languages | Tools |
-|-----------|----------|---------|-----------|-----------|-------|
-| React | Node.js | Flutter | MongoDB | JavaScript | Git |
-| Next.js | Express | Kotlin | PostgreSQL | TypeScript | GitHub |
-| HTML5 | REST API | Java | MySQL | Python | VS Code |
-| Tailwind CSS | JWT | Android | Firebase | C++ | Android Studio |
-
-</div>
-
-# Philosophy
-
-<div align="center">
-
-> "Great software is built through consistency, curiosity, and continuous improvement."
-
-</div>
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0D1117&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>

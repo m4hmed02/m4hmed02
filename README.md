@@ -6,7 +6,6 @@
 
 </div>
 
----
 
 <img align="right" width="420" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
@@ -20,7 +19,6 @@
 
 <br clear="right"/>
 
----
 
 ## Tech Stack
 
@@ -48,16 +46,12 @@
 
 </div>
 
----
 
-
-## Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
----
 
 ## Contribution Graph
 
@@ -65,7 +59,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=m4hmed02&theme=tokyo-night&hide_border=true&area=true&area_color=4FC3F7"/>
 </div>
 
----
 
 ## Connect
 
@@ -78,7 +71,6 @@
 
 </div>
 
----
 
 <div align="center">
 

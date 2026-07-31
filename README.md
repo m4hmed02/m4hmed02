@@ -14,10 +14,8 @@
 
 - **Primary Focus:** Native Android (Kotlin + Jetpack Compose)
 - Following **Clean Architecture**, MVVM & MVI patterns
-- Building with **Hilt**, **Coroutines**, **Flow**, **Room**, **Retrofit**
-- Also ship Full Stack apps with the **MERN** stack
+- Also ship Full Stack Web apps with the **MERN** stack
 - Cross-platform mobile with **Flutter + Dart**
-- Currently diving deeper into **Kotlin Multiplatform**
 - Obsessed with writing **clean, testable, scalable** code
 
 <br clear="right"/>
@@ -47,19 +45,6 @@
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,python,cpp" height="48"/>
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=m4hmed02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9&count_private=true"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=m4hmed02&theme=tokyonight&hide_border=true&background=0D1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7"/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4hmed02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
